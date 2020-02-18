@@ -1,5 +1,5 @@
 dandan-yao.github.io
-[标准查询](standard search.md)
+### 标准查询
 可以点击这里[消防资源网](http://gf.1190119.com/)。
 
 ---
